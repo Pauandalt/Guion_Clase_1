@@ -1,10 +1,10 @@
 # Clase 1: La base de la era digital: *El Ordenador*
 
-## Objetivo
+### Objetivo
 
 Mediante esta clase se pretende dotar a los alumnos de ciertos conocimientos previos antes de adentrarnos en la era digital. Para ello, se expondrán múltiples definiciones y conceptos que servirán para aclarar cuestiones que irán saliendo a lo largo de la asignatura. Por otro lado, para interiorizar el comportamiento de un ordenador, máquina base de la era digital, se dispondrá de una práctica sobre el procesador c5i.
 
-### 1.1	Introducción: Definición de conceptos previos
+## 1.1	Introducción: Definición de conceptos previos
 
 Los anteriores links definen los conceptos necesarios para definir los componentes básicos de un ordenador. El profesor de la asignatura podrá elegir los que más se ajusten a sus necesidades.
 
@@ -36,9 +36,9 @@ Definiciones:
 
 [Arquitectura de Harware](https://electronics.stackexchange.com/questions/353915/what-is-the-role-of-isa-instruction-set-architecture-in-the-comp-arch-abstract)
 
-### 1.2	Procesadores: 
+## 1.2	Procesadores: 
 
-#### 1.2.1 Función
+### 1.2.1 Función
 
 1- [Explicar que es un procesador](https://conceptodefinicion.de/procesador/)
 
@@ -54,7 +54,7 @@ Definiciones:
 
 *Puerta SÍ ( F=A ), puerta AND ( F=A*B ), puerta OR ( F=A+B ), puerta XOR ( F=A’B+AB’ ), puerta NOT ( F=A’ ), puerta NAND ( F=(AB)’ ), puerta NOR ( F=(A+B)’ ),  puerta XNOR( F=AB+A’B’ )*
 
-#### 1.2.2 Situación actual: Empresas y mercado en la actualidad
+### 1.2.2 Situación actual: Empresas y mercado en la actualidad
 
 [Mercado mundial](http://rsocial.expansionpro.orbyt.es/epaper/xml_epaper/Expansi%C3%B3n/23_03_2018/pla_3995_Pais_Vasco/xml_arts/art_15913300.xml?SHARE=6C23C0F29C6C4F158F7CA6264B486305B653D3AF53CFD54244B9CF7F68DE73BF14CBCE99C5EC78615BF7C9B4D7C7F90607B0FB44DE6065CB19F2D0AC7F842D244C32B6546A48F6A2C32ED77B3375B50D79C402F47193576E1367062FF0C4154A)
 
