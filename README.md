@@ -66,3 +66,15 @@ Definiciones:
 *Ejemplo*
 
 *Valor de las operaciones anuales del mercado: 115.565 millones de euros (2018). El veto por parte del gobierno estadounidense a la opa de Broadcom sobre Qualcomm.*
+
+## 1.3	Ley de Moore
+
+### 1.3.1 ¿Qué es? Y para qué sirve?
+
+### 1.3.2	¿Qué ha implicado hasta el día de hoy? ¿Sigue siendo válida?
+
+## 1.4	Relación entre los dos conceptos previos
+
+### 1.4.1 Qué supone esto para el mercado global
+
+### 1.4.2 
