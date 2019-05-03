@@ -10,13 +10,13 @@ Los anteriores links definen los conceptos necesarios para definir los component
 
 Definiciones:
 
-[1-](https://www.google.com/search?rlz=1C1CHBD_esES774ES778&ei=iLzKXNTmL4XPgweYwJPIAg&q=definci%C3%B3n+procesador&oq=definci%C3%B3n+procesador&gs_l=psy-ab.3..35i304i39i70i249j35i304i39j0i13j0i22i30l7.75188.85512..85707...0.0..1.514.4009.3j9j3j4j0j1....2..0....1..gws-wiz.......0i71j35i39j0i67j0i131j0j35i39i70i249j0i20i263j0i10j0i67i70i249j0i13i30j0i8i13i10i30j0i8i13i30.gdrVvqxmiYI) Definición de Procesador
+1- [Definición de Procesador](https://www.google.com/search?rlz=1C1CHBD_esES774ES778&ei=iLzKXNTmL4XPgweYwJPIAg&q=definci%C3%B3n+procesador&oq=definci%C3%B3n+procesador&gs_l=psy-ab.3..35i304i39i70i249j35i304i39j0i13j0i22i30l7.75188.85512..85707...0.0..1.514.4009.3j9j3j4j0j1....2..0....1..gws-wiz.......0i71j35i39j0i67j0i131j0j35i39i70i249j0i20i263j0i10j0i67i70i249j0i13i30j0i8i13i10i30j0i8i13i30.gdrVvqxmiYI)
 
-[2-](https://www.deordenadores.com/cuales-son-los-componentes-de-un-ordenador/) Definición de ordenador y sus componentes
+2- [Definición de ordenador y sus componentes](https://www.deordenadores.com/cuales-son-los-componentes-de-un-ordenador/)
 
-[3-](https://conceptodefinicion.de/procesador/) Definición de componentes de los procesadores, hardware, caché, etc.
+3- [Definición de componentes de los procesadores, hardware, caché, etc.](https://conceptodefinicion.de/procesador/)
 
-[4-](https://tecnologia-informatica.com/componentes-de-una-computadora/) Tecnología-informatica componentes de ordenador más a fondo 
+4- [Tecnología-informatica componentes de ordenador más a fondo](https://tecnologia-informatica.com/componentes-de-una-computadora/)
 
 *Ejemplo:*
 
