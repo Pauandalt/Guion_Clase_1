@@ -18,12 +18,12 @@ Definiciones:
 
 [4-](https://tecnologia-informatica.com/componentes-de-una-computadora/) Tecnología-informatica componentes de ordenador más a fondo 
 
-*Ejemplo:
+*Ejemplo:*
 
-*Ordenador: Un ordenador es un equipo capaz de calcular y ordenar información, y de ahí su nombre del latín —computare— y del español—ordenador—.
+*Ordenador: Un ordenador es un equipo capaz de calcular y ordenar información, y de ahí su nombre del latín —computare— y del español—ordenador—.*
 
-*Hardware: todo equipo físico empleado en la máquina.
+*Hardware: todo equipo físico empleado en la máquina*
 
-*Software: colección de código instalado en el disco duro del ordenador.
+*Software: colección de código instalado en el disco duro del ordenador.*
 
-*Procesador: Componente electrónico donde se realizan los procesos lógicos
+*Procesador: Componente electrónico donde se realizan los procesos lógicos*
