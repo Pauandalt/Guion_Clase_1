@@ -43,3 +43,21 @@ Definiciones:
 1- [Explicar que es un procesador](https://conceptodefinicion.de/procesador/)
 
 2- [Definir puertas lógicas](http://natypine7.files.wordpress.com/) y [las operaciones que realizan](https://www.etsist.upm.es/estaticos/ingeniatic/index.php/tecnologias/item/563-puertas-l%C3%B3gicas%3Ftmpl=component&print=1.html)
+
+*Ejemplo:*
+
+*Un procesador es un componente electrónico donde se realizan los procesos lógicos. Para ello, se emplean las puertas lógicas que a su vez son circuitos de conmutación integrados en un chip inventados por Claude Elwood Shannon en 1938.*
+
+*Por tanto una puerta lógica, o compuerta lógica, es un dispositivo electrónico que es la expresión física de un operador booleano en la lógica de conmutación. Cada puerta lógica consiste en una red de dispositivos interruptores que cumple las condiciones booleanas para el operador particular. Son esencialmente circuitos de integración integrados en un chip.*
+
+*En resumidas cuentas, una puerta lógica es un dispositivo capaz de realizar las siguientes operaciones:*
+
+*Puerta SÍ ( F=A ), puerta AND ( F=A*B ), puerta OR ( F=A+B ), puerta XOR ( F=A’B+AB’ ), puerta NOT ( F=A’ ), puerta NAND ( F=(AB)’ ), puerta NOR ( F=(A+B)’ ),  puerta XNOR( F=AB+A’B’ )*
+
+#### 1.2.2 Situación actual: Empresas y mercado en la actualidad
+
+[Mercado mundial](http://rsocial.expansionpro.orbyt.es/epaper/xml_epaper/Expansi%C3%B3n/23_03_2018/pla_3995_Pais_Vasco/xml_arts/art_15913300.xml?SHARE=6C23C0F29C6C4F158F7CA6264B486305B653D3AF53CFD54244B9CF7F68DE73BF14CBCE99C5EC78615BF7C9B4D7C7F90607B0FB44DE6065CB19F2D0AC7F842D244C32B6546A48F6A2C32ED77B3375B50D79C402F47193576E1367062FF0C4154A)
+
+*Ejemplo*
+
+*Valor de las operaciones anuales del mercado: 115.565 millones de euros (2018). El veto por parte del gobierno estadounidense a la opa de Broadcom sobre Qualcomm.*
