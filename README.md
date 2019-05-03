@@ -27,3 +27,11 @@ Definiciones:
 *Software: colección de código instalado en el disco duro del ordenador.*
 
 *Procesador: Componente electrónico donde se realizan los procesos lógicos*
+
+#### ( Opcional)*1.1.2 Esquema de la arquitectura de diseño de hardware y software: *
+
+[Esquema de la arquitectura](https://sites.google.com/site/yhouycsp/reflections/2-10-hardware-and-software-abstractions)
+
+![alt text](https://github.com/Pauandalt/Guion_Clase_1/blob/master/Esquema%20Arquitectura.jpg)
+
+[Arquitectura de Harware](https://electronics.stackexchange.com/questions/353915/what-is-the-role-of-isa-instruction-set-architecture-in-the-comp-arch-abstract)
