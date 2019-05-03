@@ -1,4 +1,4 @@
-# Clase 1: La base de la era digital, *El Ordenador*
+# Clase 1: La base de la era digital: *El Ordenador*
 
 ## Objetivo
 
