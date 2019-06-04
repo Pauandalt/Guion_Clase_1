@@ -88,8 +88,10 @@ Definiciones:
 ### 1.3.2	¿Qué ha implicado hasta el día de hoy? ¿Sigue siendo válida?
 
 *¿Qué ha implicado hasta el día de hoy?*
--[link 1] (https://hipertextual.com/2013/11/final-ley-moore)
--[Link 2] (https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capitulo 2*
+
+- [link 1](https://hipertextual.com/2013/11/final-ley-moore)
+
+- [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capitulo 2*
 
 *¿Sigue siendo válida?*
 
