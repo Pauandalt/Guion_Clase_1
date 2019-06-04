@@ -105,7 +105,7 @@ Definiciones:
 
 ### 1.4.1 Qué supone esto para el mercado global
 
--[1.](https://resbla.com/2016/05/31/final-la-ley-moore-ya-no-importa/) 
+[1.](https://resbla.com/2016/05/31/final-la-ley-moore-ya-no-importa/) 
 
 > *Así que por suerte o por desgracia, aún no ha llegado la muerte de la Ley de Moore, y parece que no va a importar a (casi) nadie. Me recuerda a aquella canción de REM, es el fin del mundo tal y como lo conocemos pero no me importa.*
 
