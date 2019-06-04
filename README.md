@@ -37,7 +37,7 @@ Definiciones:
 
 [Esquema de la arquitectura](https://sites.google.com/site/yhouycsp/reflections/2-10-hardware-and-software-abstractions)
 
-![Alt text](Esquema Arquitectura.jpg)
+![Alt text](Esquema%20Arquitectura.jpg)
 
 [Arquitectura de Harware](https://electronics.stackexchange.com/questions/353915/what-is-the-role-of-isa-instruction-set-architecture-in-the-comp-arch-abstract)
 
