@@ -105,7 +105,11 @@ Definiciones:
 
 ### 1.4.1 Qué supone esto para el mercado global
 
--[1.](https://resbla.com/2016/05/31/final-la-ley-moore-ya-no-importa/) > *Así que por suerte o por desgracia, aún no ha llegado la muerte de la Ley de Moore, y parece que no va a importar a (casi) nadie. Me recuerda a aquella canción de REM, es el fin del mundo tal y como lo conocemos pero no me importa.*
+-[1.](https://resbla.com/2016/05/31/final-la-ley-moore-ya-no-importa/) 
 
-[2.](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) > “Most of the people who buy computers don’t even know what a transistor does.” They simply want the products they buy to keep getting ever better and more useful. In the past, that meant mostly going for exponential growth in speed. That road is beginning to run out. But there will still be plenty of other ways to make better computers.(*capítulo 5*)
+> *Así que por suerte o por desgracia, aún no ha llegado la muerte de la Ley de Moore, y parece que no va a importar a (casi) nadie. Me recuerda a aquella canción de REM, es el fin del mundo tal y como lo conocemos pero no me importa.*
+
+[2.](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) 
+
+> “Most of the people who buy computers don’t even know what a transistor does.” They simply want the products they buy to keep getting ever better and more useful. In the past, that meant mostly going for exponential growth in speed. That road is beginning to run out. But there will still be plenty of other ways to make better computers.(*capítulo 5*)
 
