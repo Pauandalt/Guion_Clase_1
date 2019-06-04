@@ -77,10 +77,33 @@ Definiciones:
 
 ### 1.3.1 ¿Qué es? Y para qué sirve?
 
+*¿Qué es?*
+[Explicación](https://www.profesionalreview.com/2018/04/01/que-es-la-ley-de-moore-y-para-que-sirve/)
+[The Economist: ](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capítulo 1*
+
+*Imagen explicativa*
+![Alt text](Moores_Law.PNG)
+
+
 ### 1.3.2	¿Qué ha implicado hasta el día de hoy? ¿Sigue siendo válida?
+
+*¿Qué ha implicado hasta el día de hoy?*
+-[link 1] (https://hipertextual.com/2013/11/final-ley-moore)
+-[Link 2] (https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capitulo 2*
+
+*¿Sigue siendo válida?*
+
+-[The Economist da por supuesto su final](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capitulo 4*
+
+-[Intel cree que la Ley de Moore seguirá viva hasta 2023](http://www.expansion.com/economia-digital/innovacion/2017/07/05/5953a11c268e3e1d718b4873.html)
+
+![Alt text](Faith_in_Moores_law.PNG)
 
 ## 1.4	Relación entre los dos conceptos previos
 
 ### 1.4.1 Qué supone esto para el mercado global
 
-### 1.4.2 
+-[1.](https://resbla.com/2016/05/31/final-la-ley-moore-ya-no-importa/) *Así que por suerte o por desgracia, aún no ha llegado la muerte de la Ley de Moore, y parece que no va a importar a (casi) nadie. Me recuerda a aquella canción de REM, es el fin del mundo tal y como lo conocemos pero no me importa.*
+
+-[2.](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) “Most of the people who buy computers don’t even know what a transistor does.” They simply want the products they buy to keep getting ever better and more useful. In the past, that meant mostly going for exponential growth in speed. That road is beginning to run out. But there will still be plenty of other ways to make better computers.(*capítulo 5*)
+
