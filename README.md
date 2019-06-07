@@ -17,7 +17,7 @@ Mediante esta clase se pretende dotar a los alumnos de ciertos conocimientos pre
 
 ## 1.1	Introducción: Definición de conceptos previos
 
-Los anteriores links definen los conceptos necesarios para definir los componentes básicos de un ordenador. El profesor de la asignatura podrá elegir los que más se ajusten a sus necesidades.
+Los siguientes links establecen los conceptos necesarios para definir los componentes básicos de un ordenador. El profesor de la asignatura podrá elegir los que más se ajusten a sus necesidades.
 
 Definiciones:
 
