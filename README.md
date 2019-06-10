@@ -4,7 +4,7 @@
 
 Mediante esta clase se pretende dotar a los alumnos de ciertos conocimientos previos antes de adentrarnos en la era digital. Para ello, se expondrán múltiples definiciones y conceptos que servirán para aclarar cuestiones que irán saliendo a lo largo de la asignatura. Por otro lado, para interiorizar el comportamiento de un ordenador, máquina base de la era digital, se dispondrá de una práctica sobre el procesador c5i.
 
-! [alt text](Intro_ordenador.jpg)
+![alt text](Intro_ordenador.jpg)
 
 | Contenido | Duración |
 | ----- | ----- |
