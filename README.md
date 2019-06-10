@@ -99,9 +99,9 @@ Definiciones:
 
 *¿Qué ha implicado hasta el día de hoy?*
 
-+ [link 1](https://hipertextual.com/2013/11/final-ley-moore)
++ [link 1](https://hipertextual.com/2013/11/final-ley-moore): Explicación de qué implica hasta día de hoy la Ley de Moore
 
-+ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) *capitulo 2*
++ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): el *capitulo 2* aclara lo que lleva consigo la ley de Moore.
 
 *¿Sigue siendo válida?*
 
@@ -121,7 +121,7 @@ Definiciones:
 
 > *Así que por suerte o por desgracia, aún no ha llegado la muerte de la Ley de Moore, y parece que no va a importar a (casi) nadie. Me recuerda a aquella canción de REM, es el fin del mundo tal y como lo conocemos pero no me importa.*
 
-+ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): Final del artículo de The economist 
++ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): Final del artículo de The economist, capítulo 5.
 
 > “Most of the people who buy computers don’t even know what a transistor does.” They simply want the products they buy to keep getting ever better and more useful. In the past, that meant mostly going for exponential growth in speed. That road is beginning to run out. But there will still be plenty of other ways to make better computers.(*capítulo 5*)
 
