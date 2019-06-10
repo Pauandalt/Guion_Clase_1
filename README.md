@@ -27,9 +27,9 @@ Definiciones:
 
 + [Link 2](https://www.deordenadores.com/cuales-son-los-componentes-de-un-ordenador/): Definición de ordenador y sus componentes.
 
-3- [Link 3](https://conceptodefinicion.de/procesador/): Definición de componentes de los procesadores, hardware, caché, etc.
++ [Link 3](https://conceptodefinicion.de/procesador/): Definición de componentes de los procesadores, hardware, caché, etc.
 
-4- [Link 4](https://tecnologia-informatica.com/componentes-de-una-computadora/): Tecnología-informatica componentes de ordenador más a fondo.
++ [Link 4](https://tecnologia-informatica.com/componentes-de-una-computadora/): Tecnología-informatica componentes de ordenador más a fondo.
 
 *Ejemplo:*
 
