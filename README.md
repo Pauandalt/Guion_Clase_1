@@ -49,7 +49,7 @@ Definiciones:
 
 + [Link 2](https://electronics.stackexchange.com/questions/353915/what-is-the-role-of-isa-instruction-set-architecture-in-the-comp-arch-abstract): Arquitectura de Harware
 
-*Imagen descripitiva*
+*Imagen descriptiva*
 
 ![Alt text](Esquema%20Arquitectura.jpg)
 
