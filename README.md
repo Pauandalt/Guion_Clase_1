@@ -105,7 +105,7 @@ Definiciones:
 
 *¿Sigue siendo válida?*
 
-+ [Link 1](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): The Economist da por supuesto su final*capitulo 4*
++ [Link 1](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): The Economist da por supuesto su final *capítulo 4*
 
 + [Link 2](http://www.expansion.com/economia-digital/innovacion/2017/07/05/5953a11c268e3e1d718b4873.html): Intel cree que la Ley de Moore seguirá viva hasta 2023
 
