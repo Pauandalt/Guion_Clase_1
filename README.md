@@ -101,7 +101,7 @@ Definiciones:
 
 + [link 1](https://hipertextual.com/2013/11/final-ley-moore): Explicación de qué implica hasta día de hoy la Ley de Moore
 
-+ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): el *capitulo 2* aclara lo que lleva consigo la ley de Moore.
++ [Link 2](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law): el *capítulo 2* aclara lo que lleva consigo la ley de Moore.
 
 *¿Sigue siendo válida?*
 
