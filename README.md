@@ -4,6 +4,10 @@
 
 Mediante esta clase se pretende dotar a los alumnos de ciertos conocimientos previos antes de adentrarnos en la era digital. Para ello, se expondrán múltiples definiciones y conceptos que servirán para aclarar cuestiones que irán saliendo a lo largo de la asignatura. Por otro lado, para interiorizar el comportamiento de un ordenador, máquina base de la era digital, se dispondrá de una práctica sobre el procesador c5i.
 
+El alumno debe comprender la importancia que a día de hoy adquieren en cualquier ámbito los ordenadores y el peso que tiene la industria que los rodea. Mediante las noticias y definiciones que se aportarán en el próximo capítulo, debe hacerse una idea general sobre lo que son de manera que entienda las noticias sobre el tema sin llegar a ser un experto.
+
+Por otro lado, se debe dejar claro que aunque la ley de Moore llegue a su final como tal, debido al tamaño de los procesadores, seguirá siendo válida de otras maneras. Esto se deberá a las alternativas que ofrecen las tecnologías como la IA y por tanto habrá una migración de la industria de los semiconductores a otras de mayor eficiencia de procesamiento.
+
 ![alt text](Intro_ordenador.jpg)
 
 | Contenido | Duración |
