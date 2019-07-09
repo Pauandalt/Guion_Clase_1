@@ -45,7 +45,6 @@ Definiciones:
 
 > *Procesador: Componente electrónico donde se realizan los procesos lógicos*
 
-[Source](Tecnología-informatica componentes de ordenador más a fondo)
 
 #### *1.1.2 Esquema de la arquitectura de diseño de hardware y software:* (Opcional)
 
